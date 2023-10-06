@@ -9,7 +9,7 @@
 "ads_native_preload":"No",
 "ads_splash":"AppOpen",
 "ads_exit":"Yes",
-"ads_interstitial_count_show":5,
+"ads_interstitial_count_show":1,
 "ads_interstitial_count":3,
 "ads_interstitial_back_count_show":1,
 "ads_interstitial_back_count":5,
